@@ -7,7 +7,7 @@ PORT = 6667.
 NICK = "lambot".
 
 -- nicks of administrators
-ADMINS = ["darkf"].
+ADMINS = ["darkf", "tangentstorm"].
 
 -- channels to join
 CHANS = ["#lobby"].
